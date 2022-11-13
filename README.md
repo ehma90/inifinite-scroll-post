@@ -20,7 +20,7 @@
 
 ## Github Page
 
-Here is a link to the [github page]() 
+Here is a link to the [github page](https://ehma90.github.io/inifinite-scroll-post/) 
 
 ## Show your support
 
